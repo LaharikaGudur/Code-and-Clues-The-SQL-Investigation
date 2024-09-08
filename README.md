@@ -1,4 +1,4 @@
-# SQL-Murder-Mystery
+# Code and Clues: The SQL Investigation
 A murder has taken place in SQL City, and the detective needed help to solve the case. Below are the steps and tasks I performed to investigate and find the culprit.
 
 1. Setting Up the Connection:
